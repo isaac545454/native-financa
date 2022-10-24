@@ -14,7 +14,7 @@
 <h2 style="margin-top: 20px">Funcionalidades</h2>
 <ul>
   <li>ler os dados ocultos</li>
-  
+  <li>ocultar valores</li>
 </ul>
 
 <h2 style="margin-top: 20px">como rodar</h2>
